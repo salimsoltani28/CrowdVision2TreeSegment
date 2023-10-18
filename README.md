@@ -7,7 +7,7 @@
 ## [Introduction](#Introduction) ||| [Method](#Method) ||| [Results](#Results)
 
 ## [Link to the paper](https://doi.org/10.1016/j.ophoto.2022.100016)
-![Paper](https://github.com/salimsoltani28/CNN_CitizenScience_UAV_plantspeciesMapping/blob/main/Paper_header.PNG)
+will be added
 
 ## Introduction
 Will be added
@@ -17,7 +17,7 @@ Will be added
 
 ## Method
 In this study, we explore transfer learning from such a crowdsourced data treasure in the cotext of tree species mapping. 
-![Workflow](https://github.com/salimsoltani28/CNN_CitizenScience_UAV_plantspeciesMapping/blob/main/workflow.png)
+![Workflow](https://github.com/salimsoltani28/CrowdVision2TreeSegment/blob/main/Workflow_final.png)
 
 
 ## Results
