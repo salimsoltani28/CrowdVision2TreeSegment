@@ -1,2 +1,2 @@
 # CrowdVision2TreeSegment
-Codebase for 'Leveraging Citizen Science Photographs for Tree Species Mapping in UAV Imagery' – a two-stage transfer learning approach using CNNs.
+Codebase for the paper  on From weak labels to semantic image segmentation: Leveraging citizen science photographs for tree species mapping in drone imagery.
