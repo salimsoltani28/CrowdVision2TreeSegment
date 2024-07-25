@@ -18,9 +18,7 @@ libraries_to_load <- c(
 )
 lapply(libraries_to_load, library, character.only = TRUE)
 
-# WandB Initialization
-wandb <- import("wandb")
-wandb$login(key = "753058fac9941b142125245452790d1caf6fa227")
+
 
 
 
